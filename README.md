@@ -18,7 +18,7 @@ This Pronject (Repositorie) uses the Apache-2.0 protocal.
     * A good internet connection
     * [Dependence](#Dependence)
         * Selenium
-            * ChromeDriver
+        * ChromeDriver
     * [Solve Dependence](#Solve-Dependence)
 * [How To Use](#How-To-Use)
 
@@ -29,6 +29,8 @@ This Pronject (Repositorie) uses the Apache-2.0 protocal.
 
 ### Dependence
 [Selenium](https://www.seleniumhq.org/)
-* [ChromeDriver (WebDriver for Chrome)](https://sites.google.com/a/chromium.org/chromedriver/downloads/)
+* [ChromeDriver (WebDriver for Chrome)](https://sites.google.com/a/chromium.org/chromedriver/)
 
 ### Solve Dependence
+```pip install -y selenium```
+Download right version of ChromeDriver from [Official Website](https://sites.google.com/a/chromium.org/chromedriver/downloads/)
