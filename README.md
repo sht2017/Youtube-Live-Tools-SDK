@@ -1,4 +1,4 @@
-[简体中文](https://github.com/sht2017/Youtube-Tools-SDK/master/README_CN.md) | English
+[简体中文](README_CN.md) | English
 
 README
 ======
@@ -18,7 +18,7 @@ This Pronject (Repositorie) uses the Apache-2.0 protocal.
         * ChromeDriver
     * [Solve Dependence](#Solve-Dependence)
 * [How To Use](#How-To-Use)
-* [About Author](About-Author)
+* [About Author](#About-Author)
 
 ## Requirements
 [Python 3.6+](https://www.python.org/downloads/)
