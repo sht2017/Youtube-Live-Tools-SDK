@@ -23,7 +23,7 @@ README
 ## 环境需求
 [Python 3.6+](https://www.python.org/downloads/)
 
-**良好**的网络连接
+**良好**的网络连接(国内请自行越过GFW)
 
 #### 依赖
 [Selenium](https://www.seleniumhq.org/)
