@@ -33,4 +33,5 @@ This Pronject (Repositorie) uses the Apache-2.0 protocal.
 
 ### Solve Dependence
 ```pip install -y selenium```
+
 Download right version of ChromeDriver from [Official Website](https://sites.google.com/a/chromium.org/chromedriver/downloads/)
