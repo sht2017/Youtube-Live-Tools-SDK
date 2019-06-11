@@ -25,7 +25,7 @@ This Pronject (Repositorie) uses the Apache-2.0 protocal.
 ## Requirements
 [Python 3.6+](https://www.python.org/downloads/)
 
-**A good internet connection**
+A **good** internet connection
 
 #### Dependence
 [Selenium](https://www.seleniumhq.org/)
